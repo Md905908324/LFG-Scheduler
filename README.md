@@ -52,4 +52,4 @@ To test the code, do npm install and npx expo start to create an Expo Go instanc
 
 ## **License**
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is for private use and development for Matthew Ding and the startup Real LFG. Do not replicate or use code without permission. Contact if there are any questions.
