@@ -1,0 +1,9 @@
+Copyright © 2025 Matthew Ding. All rights reserved.
+
+This source code and all associated files are the exclusive intellectual property of Matthew Ding.
+
+Unauthorized use, reproduction, distribution, modification, or adaptation of this software, in whole or in part, is strictly prohibited without the express written consent of the copyright holder.
+
+This software is provided for private use only. No license is granted for commercial, educational, or personal redistribution in any form.
+
+For inquiries regarding licensing or usage rights, please contact: myd905908324@gmail.com
